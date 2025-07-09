@@ -36,7 +36,7 @@ Currently working at **Jabil's Regional Automation Center** with experience in *
 
 - ✉️ Email: miguel199.9fkj@gmail.com  
 - 📱 Phone: +52 333-722-4553  
-- 🌐 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile) *(Add yours here)*
+- 🌐 LinkedIn: [linkedin.com/in/yourprofile]([https://linkedin.com/in/yourprofile](https://github.com/miguel8040))
 
 ---
 
